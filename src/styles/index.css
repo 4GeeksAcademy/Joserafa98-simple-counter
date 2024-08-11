@@ -1,3 +1,20 @@
+.seconds-counter {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 10px;
+}
+
+.digit {
+    width: 40px; 
+    height: 60px; 
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px; 
+    font-weight: bold;
+}
 
 /* 
 
